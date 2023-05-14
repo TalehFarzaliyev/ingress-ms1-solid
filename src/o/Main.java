@@ -1,4 +1,4 @@
-package o;
+package src.o;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package o;
+package src.o;
 
 public interface BankService {
 

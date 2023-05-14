@@ -1,4 +1,4 @@
-package s;
+package src.s;
 
 public class Person {
     private Long personId;
